@@ -54,8 +54,8 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naizoxtv&show_icons=true&theme=react&bg_color=0D1117" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naizoxtv&layout=compact&theme=react&bg_color=0D1117" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=corentinfaivre&show_icons=true&theme=react&bg_color=0D1117" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corentinfaivre&layout=compact&theme=react&bg_color=0D1117" />
 </p>
 
 <picture>
